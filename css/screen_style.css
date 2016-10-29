@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* Global Content Formatting and Styles */
+
+body {
+    color: #555;
+    font-family: Arial;
+    font-style: 14px;
+    background: -webkit-gradient()
+}
